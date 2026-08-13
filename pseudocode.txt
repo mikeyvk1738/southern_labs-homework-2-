@@ -1,0 +1,17 @@
+BEGIN
+
+INPUT
+insert the card and pin
+
+IF
+the pin is correct
+
+PRINT
+acess granted
+
+ELSE 
+the pin is incorrect
+
+END
+
+
