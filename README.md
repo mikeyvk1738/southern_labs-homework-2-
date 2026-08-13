@@ -1,1 +1,1 @@
-![ATM Flowchart](atm_flowchart.png.png)
+![ATM Flowchart](atm_flowchart.png)
