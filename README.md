@@ -1,1 +1,1 @@
-![my process flowchart](atm_flowchart.png)
+![ATM Flowchart](atm_flowchart.png)
